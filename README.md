@@ -2,7 +2,7 @@
 CS330 SNHU week 8 project: Brick-Breaker with OpenGL
 
 A brick-breaker stylee game.
-Uses vectors to hold balls and bricks and generate them on-screen.
+Uses vectors to hold balls and bricks and draw them on-screen.
 Colors are random shades of purple. I sure love purple.
 
 How to Play:
