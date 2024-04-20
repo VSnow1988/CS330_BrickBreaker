@@ -8,7 +8,7 @@ Colors are random shades of purple. I sure love purple.
 
 How to Play:
 Run program and use space bar to launch a ball in a random direction.
-Balls will coollide with bricks or each other and cause colors to change or bricks to disappear and rebound.
+Balls will collide with bricks or each other and cause colors to change or bricks to disappear and rebound.
 
 ## Issues to be fixed:
 - The collision behavior does not work as expected.
