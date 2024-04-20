@@ -2,7 +2,7 @@
 CS330 SNHU week 8 project: Brick-Breaker with OpenGL.
 Downlod these files to edit or run as a Visual Studio project.
 
-A brick-breaker style game.
+A 2D brick-breaker arcade style game.
 Uses vectors to hold balls and bricks and draw them on-screen.
 Colors are random shades of purple. I sure love purple.
 
