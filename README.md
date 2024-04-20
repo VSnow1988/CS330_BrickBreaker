@@ -1,5 +1,6 @@
 # CS330_BrickBreaker
 CS330 SNHU week 8 project: Brick-Breaker with OpenGL
+Project files for Visual Studio.
 
 A brick-breaker style game.
 Uses vectors to hold balls and bricks and draw them on-screen.
