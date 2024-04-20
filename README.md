@@ -17,3 +17,4 @@ Balls will coollide with bricks or each other and cause colors to change or bric
 - Code documentation is very lacking.
 - Security features like assertions, automated tests, and error logging would be very useful.
 - Some variables names don't make sense and should change to be more intuitive.
+- An ArrayList may be more efficient and secure than a vector for holding world objects.
