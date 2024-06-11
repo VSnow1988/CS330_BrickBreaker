@@ -10,6 +10,9 @@ How to Play:
 Run program and use space bar to launch a ball in a random direction.
 Balls will collide with bricks or each other and cause colors to change or bricks to disappear and rebound.
 
+## Setting up:
+Drop all files into a Visual Studio project and extract the .zip files as directories of the same name.
+
 ## Issues to be fixed:
 - The collision behavior does not work as expected.
 - Balls sometimes bounce when no brick apparently exists.
